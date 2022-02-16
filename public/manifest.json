@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Klient - ściąga na sprawdzian z karate",
+  "name": "Klient - ściąga na sprawdzian z karate",
   "icons": [
     {
       "src": "favicon.ico",
